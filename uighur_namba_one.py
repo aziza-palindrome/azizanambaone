@@ -1,0 +1,1 @@
+print ("Adilkhan is durak")
