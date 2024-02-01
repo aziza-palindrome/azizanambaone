@@ -1,1 +1,1 @@
-print ("Adilkhan is durak")
+print("Hello World")
